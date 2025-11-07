@@ -1,2 +1,0 @@
-create text1.txt
-delete the user acc
